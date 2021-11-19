@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jayveer sinh  Raj/CLionProjects/Rock,Paper,Scissor Simulator/BotSimulator_RockPaperScissors/main.cpp
+iostream
+-
+tuple
+-
+thread
+-
+chrono
+-
+memory
+-
+vector
+-
+ostream
+-
+ctime
+-
+cstdlib
+-
+
